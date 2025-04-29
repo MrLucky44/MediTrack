@@ -21,6 +21,6 @@ This application was developed as part of the BME310 Project Management course t
 - GitHub (Version Control & Project Management)
 
 > Contributors:
-> - Ali Kerem Erhan – UI/UX Design, React Native Integration  
-> - Muhammed Emir Daloğlu – Backend Development, API Logic  
-> - Emre Kılıç – Database Operations, Notification Logic
+> - Ali Kerem Erhan – UI/UX Design, React Native Integration - 210402021 
+> - Muhammed Emir Daloğlu – Backend Development, API Logic  -210402041
+> - Emre Kılıç – Database Operations, Notification Logic   -210402027
