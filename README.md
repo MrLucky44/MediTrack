@@ -25,4 +25,4 @@ This application was developed as part of the BME310 Project Management course t
 >
 > - Ali Kerem Erhan (MrLucky44) – UI/UX Design, React Native Integration - 210402021
 > - Muhammed Emir Daloğlu (emirdaloglu) – Backend Development, API Logic -210402041
-> - Emre Kılıç (g3yk) – Database Operations, Notification Logic -210402027
+> - Emre Kılıç (kilic-emre) – Database Operations, Notification Logic -210402027
